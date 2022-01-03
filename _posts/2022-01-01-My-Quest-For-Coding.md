@@ -2,14 +2,14 @@
 title: My Quest For Coding
 updated: 2022-01-01 10:38
 ---
-![Coding](../assets/images/pexels-markus-spiske-1921326.jpg)
+![Coding](../assets/images/pexels-markus-spiske-1921326.JPG)
 ## Synopsis
 As I get close to two decades in the IT field, my love for coding is still alive. Unfortunately, with career growth in this field (_As you move to a technology leadership role_), you also do lesser coding by the day.
 Although there are many reasons to be hands-on, I believe the following are my three top reasons why I gravitate towards coding.
 
 <b>First</b>, Do you want to have a practical vs. theoretical understanding of a concept?. Learning is one thing, but practicing what you learn gives you a ton of confidence when talking about technology to a broader audience.
 
-<b>Second</b>, Problem solvers are achievers. I have always felt of sense of achievement as I solve a problem through coding. I guess this sense can only be realized when you get your hands dirty with code.
+<b>Second</b>, Problem solvers are achievers. I have always felt a sense of achievement as I solve a problem through coding. I guess this sense can only be realized when you get your hands dirty with code.
 
 <b>Lastly</b>, It makes you feel young!! :). The community of coders is vibrant, energetic, and constantly unlearning old things to learn new technology trends. 
 
