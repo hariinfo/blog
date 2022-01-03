@@ -17,9 +17,9 @@ brew install postgresql
 ```bash
 docker run -d \
     --name testpsql_node1 \
-    -e POSTGRES_USER=postgres \
-    -e POSTGRES_PASSWORD=postgres \
-    -e POSTGRES_DB=postgres \
+    -e POSTGRES_USER=dummy \
+    -e POSTGRES_PASSWORD=dummy \
+    -e POSTGRES_DB=dummy \
     -p 6551:5432 \
     -v testpsql_data:/var/lib/postgresql/data \
     postgres:latest
