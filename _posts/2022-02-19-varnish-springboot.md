@@ -5,7 +5,7 @@ updated: 2022-01-03 10:38
 
 ## Synopsis
 A significant element of optimization of site performance is achieved through caching. For best results, caching should be applied across multiple tiers of the application architecture. We are focused explicitly on sever side edge cache in this article. First, let us understand a few concepts related to edge cache. A request to the server ideally has the following path (I have eliminated components such as DNS servers and load balancers for simplicity)
-
+![Caching Logical View](../assets/images/caching.svg)
 |User| -> |CDN| -> |Origin Edge Cache| -> |Origin Server| -> |DB Cache Layer| -> |Database|
 
 * **CDN** - These are ideally providers such as Akamai, Fastly who run an extensive network of caching servers. The servers are located close to the user location. For example, if you are browsing from the Chicago area, your traffic would reach a CDN server in the Chicago metro region, reducing the overall cost associated with the network.
