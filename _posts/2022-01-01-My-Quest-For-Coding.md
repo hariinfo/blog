@@ -2,7 +2,7 @@
 title: My Quest For Coding
 updated: 2022-01-01 10:38
 ---
-![Coding](https://github.com/hariinfo/blog/blob/gh-pages/assets/images/pexels-markus-spiske-1921326.jpg)
+![Coding](/assets/images/pexels-markus-spiske-1921326.jpg)
 ## Synopsis
 As I get close to two decades in the IT field, my love for coding is still alive. Unfortunately, with career growth in this field (_As you move to a technology leadership role_), you also do lesser coding by the day.
 Although there are many reasons to be hands-on, I believe the following are my three top reasons why I gravitate towards coding.
